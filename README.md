@@ -2,20 +2,32 @@
 Learning Path Dashboard Web App with progress tracking
 
 Goal of the project is to make a learning path dashboard web app 
-	Features
+
+👋🏻	Features
+
 •	Two primary users: Instructor and Student
+
 •	Instructor can design micro-courses by uploading content in the form of text, PDFs, links to external videos, etc 
+
 •	As a method to try to maintain integrity of the platform, instructors must get their profile verified by the organisation they work for before publishing a course.
+
 •	Students can enrol in courses
+
 •	Live progress for a course is visible to both students and instructors too (this helps to provide timely feedback and correction from the instructor if needed)
+
 •	Community page to facilitate peer engagement and support
+
 •	“Marketplace” called recommending similar courses  
 
-	Use cases
+
+👋🏻	Use cases
+
 •	It can be used within educational institutions as a part of evaluation criteria 
+
 •	Can also be used by volunteers/non-profit organizations to provide e-education to underprivileged children at low cost (since platforms like Coursera, Udemy, etc are paid and expensive)
 
 
+👋🏻Instructions to merge local changes to git
 
 To update changes to Git from local repository (if forgotten to pull beforehand) follow these steps:
 
