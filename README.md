@@ -3,7 +3,7 @@ Learning Path Dashboard Web App with progress tracking
 
 To update changes to Git from local repository (if forgotten to pull beforehand) follow these steps:
 (Run these commands in terminal in VSCode in the project folder)
-1. Check your current git status
+1. Check your current git status \n
    Run command: git status
    This will show you which files have been modified and need to be committed.
 
